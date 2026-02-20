@@ -35,3 +35,6 @@ has both NVidia and AMD optimisations, now also has a web GUI to tweak parameter
 
 There’s quite a lot of litterature about engines, quantization and optimization. I’m still in the learning process and it’s pretty deep. 
 
+* Resources
+
+There is some good info about AMD Ryzen MAX / Strix Halo here : https://strixhalo.wiki/
