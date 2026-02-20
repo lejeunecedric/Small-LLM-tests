@@ -12,15 +12,24 @@ I use 3 configurations :
 
 * Win 11 on [Lenovo  ThinkBook 14s Yoga](https://www.lenovo.com/us/outletus/en/p/laptops/thinkbook/thinkbook-yoga/thinkbook-14s-yoga/20wex013us), 16 GB RAM, Intel i7
 
-## Inference engines
+## Inference managers
 
-This is an interesting topic, that has a significant impact on performances and what can actually be done.
+This is an interesting topic, that has a significant impact on performances and what can actually be done. Those tools are graphical interfaces sitting on top of actual inference engines and giving access to some parameters. They all have their pros and cons.
 
-* LM Studio : very user-friendly, a lot of tweaking parameters available directly in the GUI but limited format support. Direct access to Hugging Face download and very complete client and 
+* LM Studio :
+https://www.lmstudio.com
 
-* Lemonade : limited tweakability in the GUI, but comes with AMD Ryzen specific models and directly integrated in N8N workflows
+  very user-friendly, a lot of tweaking parameters available directly in the GUI but limited format support. Direct access to Hugging Face download and very complete client and 
 
-* vLLM : has both NVidia and AMD optimisations, now also has a web GUI to tweak parameters
+* Lemonade :
+https://lemonade-server.ai/
+
+limited tweakability in the GUI, but comes with AMD Ryzen specific models and directly integrated in N8N workflows
+
+* vLLM :
+https://lemonade-server.ai/
+
+has both NVidia and AMD optimisations, now also has a web GUI to tweak parameters
 
 ## Models
 
