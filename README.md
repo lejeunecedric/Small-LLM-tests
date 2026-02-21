@@ -37,4 +37,5 @@ There’s quite a lot of litterature about engines, quantization and optimizatio
 
 * Resources
 
+Great list of LLMs and tools for local processing https://github.com/rafska/awesome-local-llm
 There is some good info about AMD Ryzen MAX / Strix Halo here : https://strixhalo.wiki/
